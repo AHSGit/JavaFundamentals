@@ -1,4 +1,4 @@
-#Backend Revision Journal
+# Backend Revision Journal
 
-##Java Fundamentals - Day 01: Basics
+## Java Fundamentals - Day 01: Basics
 **Topics Practised:** Variables, Data Types, Input/Output, Conditionals, Iterations.
