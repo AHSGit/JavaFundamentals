@@ -1,4 +1,4 @@
-package com.revision.backend.day02;
+package com.revision.backend.day01.SimpleLibrary;
 
 public class Book {
 

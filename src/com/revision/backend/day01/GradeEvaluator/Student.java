@@ -1,4 +1,4 @@
-package com.revision.backend.day01.miniproject;
+package com.revision.backend.day01.GradeEvaluator;
 
 public class Student {
 	
